@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Visão geral | StockControl"},{"path":"/login","title":"Entrar | StockControl"},{"path":"/produtos","title":"Produtos | StockControl"},{"path":"/ocorrencias","title":"Divergências | StockControl"},{"path":"/ocorrencias/:id","title":"Detalhe da ocorrência | StockControl"},{"path":"/relatorios","title":"Relatórios | StockControl"}]}
